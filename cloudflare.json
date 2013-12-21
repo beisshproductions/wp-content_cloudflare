@@ -1,9 +1,35 @@
-cloudflare
-{
-  upload "wp-content"
-  up_to "wp_"
-  wp_lt "content"
-  lvie "wp_content"
-  get_all "load.json"
-  get_var "cloudflare"
+#folder.name{
+    Connect "http://www.ani-uploading.tk"
+    work "wordpress"
+    control "wp_"
+    Content "wp-content"
 }
+    div.d{
+        Down-Link ('vtr, +g' -mine, -an)
+        control 'pushh', pull (surfance, link, width('21px'))
+    }
+        threat
+        {
+            control "number"
+            all "in"
+            model 'off'
+            connect_var "number_unknown", 'live' (alert)
+        }
+            add_ons
+            {
+             Stream all
+            }
+            {
+                live
+                        {
+                            Downloads
+                            works "fine"
+                            mesage "on"
+                            trinf 'med'
+                            
+                        }
+            } gangsta.lot.vad
+            {
+                transpent "all"
+            }
+            }
