@@ -1,2 +1,37 @@
-Funcion Var(){
-Createobjetc "de
+Function alert()
+{
+  intinal "./public/download.png"
+  cont "./all"
+  version "./version/3.5.1.2"
+}
+      images
+      {
+        get_auth "./images/image-01.png"
+        get_auth2 "./images/image-02.pmg"
+        get_auth3 "/images/image.03.png"
+        get_auth4 "/images/image-08.png"
+      }
+                      Server_liv_ul
+                      {
+                        Name "Wordpress"
+                        Kbyte "331"
+                        Version "Unknown"
+                        Get_Ver "./wordpress/wp-plugins/version/3.4.1.2/3.4.1.2.json"
+                        f_ns "greg.ns.cloudflare.com"
+                        l_ns "dina.ns.cloudfalre.com"
+                        v_ip "108.114.0.1"
+                      }
+                      
+                        hend_get
+                        {
+                          Name "CloudFlare"
+                          plug-in "./wp-plugins/cloudflare.json"
+                          plug-ins "./cloudflare/ani-uploading/cloudflare.php"
+                          Version "https://www.cloudflare.com/version/project/ani-uploading.zip?version=3.5.1.0"
+                          Get_From "gt2.000webhost.com"
+                          sQL "1sql.000webhost.com"
+                          of_ole "Wordpress"
+                          sen_get "./wp-content/current-folder/cloudflare.json"
+                          image "./wp-content/images/01/2013/Logo.png"
+                          
+                        }
