@@ -1,8 +1,9 @@
 cloudflare
 {
-  upload('./wp-content')
-  up_to(wp_)
-  wp_lt 'wp'
+  upload "wp-content"
+  up_to "wp_"
+  wp_lt "content"
   lvie "wp_content"
   get_all "load.json"
+  get_var "cloudflare"
 }
